@@ -1,6 +1,6 @@
 ## Description
 
-Draw some pretty pictures on a HTML Canvas. You can also save a share your artwork as PNG.
+Draw some pretty pictures on a HTML Canvas. You can also save and share your artwork as PNG.
 
 ## Preview
 
